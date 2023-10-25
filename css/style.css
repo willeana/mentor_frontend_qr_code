@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 15px sans-serif;
+    background: rgb(210, 228, 229);
+
+}
+
+section {
+
+    width: 480px;
+    background: white;
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 75px;
+    border-radius: 25px;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.escuro {
+    color: rgb(14, 14, 84);
+    font-size: 34px;
+    font-weight: 750;
+}
+
+.claro {
+    color: rgb(145, 158, 169);
+    font-size: 23px;
+    font-weight: 500;
+    margin: 25px;
+}
